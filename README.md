@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Satish-53/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Satish-53/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Satish-53/Leetcode_Solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Satish-53/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0039-combination-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Satish-53/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Satish-53/Leetcode_Solution/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Satish-53/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
