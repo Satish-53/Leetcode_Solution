@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satish-53/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Satish-53/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satish-53/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satish-53/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Satish-53/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Satish-53/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 ## Trie
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satish-53/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Satish-53/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
