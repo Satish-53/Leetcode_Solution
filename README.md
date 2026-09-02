@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Satish-53/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish-53/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Satish-53/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Satish-53/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0509-fibonacci-number) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Satish-53/Leetcode_Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
