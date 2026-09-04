@@ -16,6 +16,6 @@ class Solution{
                 path[row][col]=fromTop+fromLeft;
             }
         }
-        return path[m - 1][n - 1];
+        return path[m-1][n-1];
     }
 }
