@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1672-richest-customer-wealth](https://github.com/Satish-53/Leetcode_Solution/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Satish-53/Leetcode_Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Satish-53/Leetcode_Solution/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
