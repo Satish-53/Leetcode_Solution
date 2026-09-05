@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Satish-53/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish-53/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Satish-53/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Satish-53/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/Satish-53/Leetcode_Solution/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Satish-53/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/2235-add-two-integers) |
