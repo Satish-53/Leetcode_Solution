@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish-53/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Satish-53/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Satish-53/Leetcode_Solution/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0412-fizz-buzz](https://github.com/Satish-53/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satish-53/Leetcode_Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
