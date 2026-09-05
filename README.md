@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Satish-53/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Satish-53/Leetcode_Solution/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0062-unique-paths) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
 ## Simulation
 |  |
