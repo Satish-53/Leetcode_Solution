@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Satish-53/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/Satish-53/Leetcode_Solution/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Satish-53/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Satish-53/Leetcode_Solution/tree/master/0412-fizz-buzz) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Satish-53/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Satish-53/Leetcode_Solution/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Satish-53/Leetcode_Solution/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satish-53/Leetcode_Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
