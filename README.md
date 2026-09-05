@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
@@ -258,4 +260,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
