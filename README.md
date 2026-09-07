@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Satish-53/Leetcode_Solution/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Satish-53/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Satish-53/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0509-fibonacci-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satish-53/Leetcode_Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
