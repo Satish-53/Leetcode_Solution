@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Satish-53/Leetcode_Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Satish-53/Leetcode_Solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Satish-53/Leetcode_Solution/tree/master/0066-plus-one) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Satish-53/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Satish-53/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Satish-53/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Satish-53/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Satish-53/Leetcode_Solution/tree/master/0125-valid-palindrome) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Satish-53/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Satish-53/Leetcode_Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0147-insertion-sort-list) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Satish-53/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Satish-53/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Satish-53/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
