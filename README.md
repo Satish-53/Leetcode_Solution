@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Satish-53/Leetcode_Solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Satish-53/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Satish-53/Leetcode_Solution/tree/master/0056-merge-intervals) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Satish-53/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Satish-53/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/Satish-53/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Satish-53/Leetcode_Solution/tree/master/0242-valid-anagram) |
