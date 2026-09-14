@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Satish-53/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Satish-53/Leetcode_Solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Satish-53/Leetcode_Solution/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Satish-53/Leetcode_Solution/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Satish-53/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Satish-53/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Satish-53/Leetcode_Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Satish-53/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Satish-53/Leetcode_Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/1929-concatenation-of-array) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Satish-53/Leetcode_Solution/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Satish-53/Leetcode_Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
