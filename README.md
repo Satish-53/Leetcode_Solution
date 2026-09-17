@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish-53/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Satish-53/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Satish-53/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Satish-53/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Satish-53/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/Satish-53/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Satish-53/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
