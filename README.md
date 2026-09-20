@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/Satish-53/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satish-53/Leetcode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Satish-53/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satish-53/Leetcode_Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Combinatorics
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Satish-53/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
 |  |
@@ -426,4 +430,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Satish-53/Leetcode_Solution/tree/master/0164-maximum-gap) |
+| [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
