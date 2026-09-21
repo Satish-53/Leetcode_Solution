@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0257-binary-tree-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Satish-53/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Satish-53/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Satish-53/Leetcode_Solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0412-fizz-buzz](https://github.com/Satish-53/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [3136-valid-word](https://github.com/Satish-53/Leetcode_Solution/tree/master/3136-valid-word) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0101-symmetric-tree) |
+| [0257-binary-tree-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
