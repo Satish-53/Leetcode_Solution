@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satish-53/Leetcode_Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Satish-53/Leetcode_Solution/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Satish-53/Leetcode_Solution/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Satish-53/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0220-contains-duplicate-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Satish-53/Leetcode_Solution/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
@@ -445,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/Satish-53/Leetcode_Solution/tree/master/0164-maximum-gap) |
 | [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
