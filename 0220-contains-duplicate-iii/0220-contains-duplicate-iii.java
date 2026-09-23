@@ -15,7 +15,7 @@ class Solution {
             {
                 return true;
             }
-            // Paas wale buckets bhi check karo
+            // Paas wale buckets bhi check karo 
             if (buckets.containsKey(bucket-1) && number-buckets.get(bucket-1) <=valueDiff)
             {
                 return true;
