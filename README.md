@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -500,4 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Satish-53/Leetcode_Solution/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
