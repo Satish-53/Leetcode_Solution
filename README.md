@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0645-set-mismatch](https://github.com/Satish-53/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/Satish-53/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satish-53/Leetcode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Satish-53/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0414-third-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0645-set-mismatch](https://github.com/Satish-53/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satish-53/Leetcode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Satish-53/Leetcode_Solution/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Satish-53/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Satish-53/Leetcode_Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Satish-53/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Satish-53/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Combinatorics
