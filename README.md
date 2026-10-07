@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0100-same-tree) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Satish-53/Leetcode_Solution/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
@@ -264,10 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0047-permutations-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
