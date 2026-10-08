@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Satish-53/Leetcode_Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Satish-53/Leetcode_Solution/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Satish-53/Leetcode_Solution/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Satish-53/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Satish-53/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Satish-53/Leetcode_Solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Satish-53/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0086-partition-list) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Satish-53/Leetcode_Solution/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Satish-53/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0148-sort-list) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Satish-53/Leetcode_Solution/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Satish-53/Leetcode_Solution/tree/master/0075-sort-colors) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -539,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Satish-53/Leetcode_Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
