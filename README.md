@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Satish-53/Leetcode_Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Satish-53/Leetcode_Solution/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Satish-53/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Satish-53/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Satish-53/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Satish-53/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/Satish-53/Leetcode_Solution/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
