@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Satish-53/Leetcode_Solution/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0053-maximum-subarray) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Satish-53/Leetcode_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Satish-53/Leetcode_Solution/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0064-minimum-path-sum) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satish-53/Leetcode_Solution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0324-wiggle-sort-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
