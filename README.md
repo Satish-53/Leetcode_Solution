@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/Satish-53/Leetcode_Solution/tree/master/0654-maximum-binary-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/Satish-53/Leetcode_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Satish-53/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Satish-53/Leetcode_Solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Satish-53/Leetcode_Solution/tree/master/0415-add-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/Satish-53/Leetcode_Solution/tree/master/1021-remove-outermost-parentheses) |
 | [3136-valid-word](https://github.com/Satish-53/Leetcode_Solution/tree/master/3136-valid-word) |
 ## Trie
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satish-53/Leetcode_Solution/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Satish-53/Leetcode_Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
 |  |
 | ------- |
