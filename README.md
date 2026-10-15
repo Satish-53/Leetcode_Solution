@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Satish-53/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish-53/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0148-sort-list) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Satish-53/Leetcode_Solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Satish-53/Leetcode_Solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Satish-53/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Satish-53/Leetcode_Solution/tree/master/0217-contains-duplicate) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0202-happy-number) |
 ## Counting Sort
 |  |
