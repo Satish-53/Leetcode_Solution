@@ -28,5 +28,5 @@ class Solution {
             root.right=build(inorder,postorder,middle+1,right);
             root.left=build(inorder,postorder,left,middle-1);
             return root;
-    }
+        }
 }
