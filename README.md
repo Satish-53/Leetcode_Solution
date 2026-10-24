@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Satish-53/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Satish-53/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Satish-53/Leetcode_Solution/tree/master/0231-power-of-two) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Satish-53/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Satish-53/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Satish-53/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Satish-53/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
