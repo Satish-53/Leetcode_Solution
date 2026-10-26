@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Satish-53/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/Satish-53/Leetcode_Solution/tree/master/0645-set-mismatch) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Satish-53/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Linked List
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Satish-53/Leetcode_Solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Satish-53/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/Satish-53/Leetcode_Solution/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Satish-53/Leetcode_Solution/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Satish-53/Leetcode_Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Satish-53/Leetcode_Solution/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Satish-53/Leetcode_Solution/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/Satish-53/Leetcode_Solution/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Satish-53/Leetcode_Solution/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Prefix Sum
 |  |
