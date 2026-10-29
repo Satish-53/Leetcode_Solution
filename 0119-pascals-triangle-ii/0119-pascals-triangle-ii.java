@@ -6,7 +6,7 @@ class Solution {
         for(int i=1;i<=rowIndex;i++)
         {
             // the new last value is always 1.
-            row[i] = 1;
+            row[i]=1;
             // Fill inner values from right to left.
             for(int j=i-1;j>0;j--)
             {
