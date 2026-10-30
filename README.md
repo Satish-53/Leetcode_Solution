@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Satish-53/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Satish-53/Leetcode_Solution/tree/master/0455-assign-cookies) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish-53/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Satish-53/Leetcode_Solution/tree/master/0367-valid-perfect-square) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Satish-53/Leetcode_Solution/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Satish-53/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Satish-53/Leetcode_Solution/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/Satish-53/Leetcode_Solution/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Satish-53/Leetcode_Solution/tree/master/0371-sum-of-two-integers) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -581,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Satish-53/Leetcode_Solution/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 ## Ordered Set
 |  |
