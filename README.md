@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Satish-53/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Satish-53/Leetcode_Solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Satish-53/Leetcode_Solution/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Satish-53/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0189-rotate-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Satish-53/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Satish-53/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Satish-53/Leetcode_Solution/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Satish-53/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0179-largest-number) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Satish-53/Leetcode_Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Satish-53/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Satish-53/Leetcode_Solution/tree/master/0217-contains-duplicate) |
