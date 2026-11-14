@@ -18,7 +18,7 @@ class Solution {
             return;
         }
         for(int i=start;i<=9;i++)
-        {
+                {
             list.add(i);
             solve(i+1,k,n-i,list);
             list.remove(list.size()-1);
