@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satish-53/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Satish-53/Leetcode_Solution/tree/master/0217-contains-duplicate) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Satish-53/Leetcode_Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satish-53/Leetcode_Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Satish-53/Leetcode_Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0220-contains-duplicate-iii) |
 ## Depth-First Search
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Satish-53/Leetcode_Solution/tree/master/0724-find-pivot-index) |
 ## Heap (Priority Queue)
