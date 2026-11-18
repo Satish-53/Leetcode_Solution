@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satish-53/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Satish-53/Leetcode_Solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satish-53/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Satish-53/Leetcode_Solution/tree/master/0131-palindrome-partitioning) |
 | [0368-largest-divisible-subset](https://github.com/Satish-53/Leetcode_Solution/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Satish-53/Leetcode_Solution/tree/master/0396-rotate-function) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satish-53/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0045-jump-game-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Satish-53/Leetcode_Solution/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0324-wiggle-sort-ii) |
