@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Satish-53/Leetcode_Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satish-53/Leetcode_Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Satish-53/Leetcode_Solution/tree/master/0216-combination-sum-iii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Satish-53/Leetcode_Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Satish-53/Leetcode_Solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Satish-53/Leetcode_Solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Satish-53/Leetcode_Solution/tree/master/0268-missing-number) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Satish-53/Leetcode_Solution/tree/master/0258-add-digits) |
 ## Quickselect
 |  |
@@ -716,4 +719,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satish-53/Leetcode_Solution/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Satish-53/Leetcode_Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
